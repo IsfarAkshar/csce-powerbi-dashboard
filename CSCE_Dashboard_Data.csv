@@ -1,0 +1,9 @@
+ticket_id,customer_id,channel,status,ticket_date,resolution_time,satisfaction_score,agent_id
+T101,C001,Email,Resolved,2024-06-01,45,4,A1
+T102,C002,Chat,Escalated,2024-06-02,60,3,A2
+T103,C003,Phone,Resolved,2024-06-02,30,5,A3
+T104,C004,Email,Resolved,2024-06-03,90,2,A1
+T105,C005,Chat,Resolved,2024-06-04,50,4,A2
+T106,C006,Phone,Resolved,2024-06-04,20,5,A3
+T107,C007,Email,Escalated,2024-06-05,70,1,A1
+T108,C008,Chat,Resolved,2024-06-06,40,4,A2
